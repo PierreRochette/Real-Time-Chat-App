@@ -17,4 +17,5 @@ npx create-react-app . ;
 installing tailwind ;
 removing unecessary files ;  
 npm install socket.io-client ; 
+npm install react-scroll-to-bottom ; 
 npm start;  
